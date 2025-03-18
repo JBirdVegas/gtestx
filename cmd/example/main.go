@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/JBirdVegas/gtestx/pkg/structfill"
 	"github.com/google/go-cmp/cmp"
-	"github.com/jbirdvegas/gtestx/pkg/structfill"
 )
 
 type inner struct {

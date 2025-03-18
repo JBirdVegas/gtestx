@@ -11,7 +11,7 @@ package main
 import (
 	"fmt"
 	"github.com/google/go-cmp/cmp"
-	"github.com/jbirdvegas/gtestx/pkg/structfill"
+	"github.com/JBirdVegas/gtestx/pkg/structfill"
 )
 
 type inner struct {
@@ -48,5 +48,4 @@ func main() {
 	}
 	println("Done")
 }
-
 ```

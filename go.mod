@@ -1,4 +1,4 @@
-module github.com/jbirdvegas/gtestx
+module github.com/JBirdVegas/gtestx
 
 go 1.23.6
 

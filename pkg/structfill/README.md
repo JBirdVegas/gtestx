@@ -4,7 +4,7 @@
 package main
 
 import "reflect"
-import "github.com/jbirdvegas/gtestx/pkg/structfill"
+import "github.com/JBirdVegas/gtestx/pkg/structfill"
 
 type foo struct {
 	One string
